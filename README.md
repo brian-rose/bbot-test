@@ -7,7 +7,7 @@ A simple repo with a Jupyter notebook just for testing some deployments via Bind
 
 ## Steps to execute the notebook via Binder from local command line using BinderBot
 
-Run these steps from the root of this repo:
+Make a local clone of this repo, and then run these steps from the repo root:
 
 ```
 mamba create --name bbot python pip click aiohttp
