@@ -1,0 +1,8 @@
+name: bbot
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - numpy
+  - matplotlib
+  - jupyter
